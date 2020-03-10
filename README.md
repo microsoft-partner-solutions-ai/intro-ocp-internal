@@ -2,7 +2,9 @@
 
 # Overview
 
-This project is aimed to serve as a central repository for assets, solutions, and content aimed to serve
+This project is aimed to serve as a central repository for assets, solutions, and content aimed to serve US OCP AI partners.
+
+Partners can leverage, fork, contribute and share content within this project as a traditional public repo.
 
 This project welcomes contributions, assets and suggestions.  The contributions within this project imply an agreement declaring that you grant the rights to use your contribution for public consumption.
 
@@ -36,6 +38,8 @@ We will then want to leverage PR against master in order to merge your changes.
 
 Consistent with the practices suggested in this playbook, please follow the
 specifics regarding git as described in this section.
+
+- [Git Training] (https://gist.github.com/peterhurford/4d43aa5d6de114c0c741ba664c9c5ff5)
 
 ### Branch naming convention
 
