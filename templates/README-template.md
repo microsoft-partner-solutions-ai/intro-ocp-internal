@@ -26,7 +26,7 @@ maintain the changes within your personal projectscontribute some changes, the b
   1. Fork from your personal repo into this project
   2. Periodically, update the "\<country\>-ocp-\<team\>" repo to sync with your linked repo.
 
-* **US-OCP-AI Original Repo:** \
+* **US-OCP-\<YOUR TEAM\> Original Repo:** \
 If you plan to create content that originates from within this project, thus you can update the content semi-regularly or regularly, each US OCP \<YOUR TEAM\> internal team member is listed as project's Owners group. 
 We will then want to leverage PR against master in order to merge your changes.
   1. Fork the repo or create a new feature branch
