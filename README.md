@@ -31,15 +31,24 @@ If you plan to create content that originates from within this project, thus you
 
 # Contribution Guidelines
 
+## Required Checklist for Repos
+
 This GitHub project is a centralized library for Tier 1 assets, as defined by the US-OCP technical asset governance guidelines.  To maintain quality contributions, the below is the required checklist for Tier 1 asset repos:
 
-* Tags
-* LICENSE
-* README
-* Description
-* Professional usernames
+- [ ] Tags
+- [ ] LICENSE
+- [ ] README
+- [ ] Description
+- [ ] Repo naming conventions for consistency and searchability:
+  - Use lower cases
+  - Use dashes
+  - Avoid camel casing
+  - Be specific, descriptive, and brief 
+  - e.g. predictive-maintenance 
 
 ## Additional Contribution Practices Encouraged
+
+Below are the strongly encouraged but not required contribution guidelines that will facilitate team development of high quality software:
 
 ### Forking or branching strategy
 
