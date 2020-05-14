@@ -1,4 +1,4 @@
-# Introduction to the US OCP AI Git Repo
+# Introduction to the US OCP AI GitHub Organization
 
 # Overview
 
@@ -21,13 +21,13 @@ There are two ways in which you can help update the content:
 
 * **Share Personal Public Repo:** \
 If you are an ad-hoc contributor to the project, but you would like to
-maintain the changes within your personal projects and contribute the changes, the best way to do it is:
+maintain the changes within your personal repos and contribute the changes, the best way to do it is:
 
   1. Fork from your personal repo into this project
   2. Periodically, update the "us-ocp-ai" repo to sync with your linked repo.
 
 * **US-OCP-AI Original Repo:** \
-If you plan to create content that originates from within this project, thus you can update the content semi-regularly or regularly, each US OCP AI internal team member is listed as project's Owners group. 
+If you plan to create content that originates from within this organization, thus you can update the content semi-regularly or regularly, each US OCP AI internal team member is listed as project's Owners group. 
 
 # Contribution Guidelines
 

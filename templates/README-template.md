@@ -1,8 +1,8 @@
-# Introduction to the US OCP \<YOUR TEAM\> Git Repo
+# Introduction to the US OCP \<SUB-TEAM\> GitHub Organization
 
 # Overview
 
-This project is aimed to serve as a central repository for assets, solutions, and content aimed to serve US OCP \<YOUR TEAM\> partners.
+This project is aimed to serve as a central repository for assets, solutions, and content aimed to serve US OCP \<SUB-TEAM\> partners.
 
 Partners can leverage, fork, contribute and share content within this project as a traditional public repo.
 
@@ -21,42 +21,61 @@ There are two ways in which you can help update the content:
 
 * **Share Personal Public Repo:** \
 If you are an ad-hoc contributor to the project, but you would like to
-maintain the changes within your personal projectscontribute some changes, the best way to do it is:
+maintain the changes within your personal repos and contribute some changes, the best way to do it is:
 
   1. Fork from your personal repo into this project
-  2. Periodically, update the "\<country\>-ocp-\<team\>" repo to sync with your linked repo.
+  2. Periodically, update the "\<country\>-ocp-\<sub-team\>" repo to sync with your linked repo.
 
-* **US-OCP-\<YOUR TEAM\> Original Repo:** \
-If you plan to create content that originates from within this project, thus you can update the content semi-regularly or regularly, each US OCP \<YOUR TEAM\> internal team member is listed as project's Owners group. 
-We will then want to leverage PR against master in order to merge your changes.
+* **US-OCP-\<SUB-TEAM\> Original Repo:** \
+If you plan to create content that originates from within this organization, thus you can update the content semi-regularly or regularly, each US OCP \<SUB-TEAM\> internal team member is listed as project's Owners group. 
+
+# Contribution Guidelines
+
+## Required Checklist for Repos
+
+This GitHub project is a centralized library for Tier 1 assets, as defined by the US-OCP technical asset governance guidelines.  To maintain quality contributions, the below is the required checklist for Tier 1 asset repos:
+
+- [ ] Tags
+- [ ] LICENSE
+- [ ] README
+- [ ] Description
+- [ ] Repo naming conventions for consistency and searchability:
+  - Use lower cases
+  - Use dashes
+  - Avoid camel casing
+  - Be specific, descriptive, and brief 
+
+## Additional Contribution Practices Encouraged
+
+Below are the strongly encouraged but not required contribution guidelines that will facilitate team development of high quality software:
+
+### Forking or branching strategy
+
+Leverage PR against master in order to merge your changes.
   1. Fork the repo or create a new feature branch
   2. Write in your contributions
   3. Create a PR into this repo
 
-
-## Git Training
-
-Consistent with the practices suggested in this playbook, please follow the
-specifics regarding git as described in this section.
-
-- [Git Training](https://gist.github.com/peterhurford/4d43aa5d6de114c0c741ba664c9c5ff5)
-
 ### Branch naming convention
-
-In this repo, we use the following branch naming conventions:
 
 | Branch Type | Pattern | Example |
 | - | - | - |
 | Feature | feature/\<issue#>-\<short description> | feature/498-reorganize-scm-section |
-| Bug Fix | fix/\<bug#>-\<short description> | bug/978-correct-grammar-myfile.md |
+| Bug Fix | fix/\<bug#>-\<short description> | fix/978-correct-grammar-myfile.md |
 
 > **Note:**
 >
-> * Please, do not use personal branches. Work should refer back to a
-feature/bug fix in the backlog.
+> * Work should refer back to a feature/bug fix in the backlog.
 > * Mind the capitalization of the branch prefix (feature, fix). Tools that
 diplay branches as a hierarchy are typically case sensitive, and will display
 different hierarchies for the same words with different capitalization.
+
+## Git Training
+
+Consistent with the practices suggested in this playbook, please refer to the
+specifics regarding git as described in this section.
+
+- [Git Training](https://gist.github.com/peterhurford/4d43aa5d6de114c0c741ba664c9c5ff5)
 
 
 ### Example Directory Hierarchy
