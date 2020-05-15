@@ -114,12 +114,32 @@ Microsoft and any contributors reserve all others rights, whether under their
 respective copyrights, patents, or trademarks, whether by implication, estoppel
 or otherwise.
 
-.
-+-- SuperTopic1
-+-- SuperTopic2
-+-- Azure AI Solutions
-|   +-- Cognitive Services
-|   +-- Azure Databricks
-+-- SuperTopicX
-|   +-- SubTopic1
-|   +-- SubTopic2
+## Presentable Content
+### Example Folder Structure
+
+```plaintext
+- README.md (Detailed Descriptions)
+- /<Super-Topic-1>
+    - /<sub-topic 1>
+        - README.md
+        - 2020
+        - 2019
+- Azure AI Solutions
+    - Cognitive Services
+        - README.md
+        - 2020
+        - 2019
+    - Azure Databricks
+        - README.md
+        - 2020
+        - 2019
+    - Azure ML Services
+        - README.md
+        - 2020
+        - 2019
+-/<Super-Topic X>
+    - /<sub-topic 1>
+        - README.md
+        - 2020
+        - 2019
+```
