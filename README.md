@@ -118,7 +118,6 @@ or otherwise.
 ### Example Folder Structure
 
 ```plaintext
-- README.md (Detailed Descriptions)
 - /<Super-Topic-1>
     - /<sub-topic 1>
         - README.md
@@ -137,9 +136,5 @@ or otherwise.
         - README.md
         - 2020
         - 2019
--/<Super-Topic X>
-    - /<sub-topic 1>
-        - README.md
-        - 2020
-        - 2019
+...
 ```
