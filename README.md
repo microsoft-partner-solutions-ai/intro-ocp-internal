@@ -113,3 +113,28 @@ Privacy information can be found at <https://privacy.microsoft.com/en-us/>
 Microsoft and any contributors reserve all others rights, whether under their
 respective copyrights, patents, or trademarks, whether by implication, estoppel
 or otherwise.
+
+## Presentable Content
+### Example Folder Structure
+
+```plaintext
+- /<Super-Topic-1>
+    - /<sub-topic 1>
+        - README.md
+        - 2020
+        - 2019
+- Azure AI Solutions
+    - Cognitive Services
+        - README.md
+        - 2020
+        - 2019
+    - Azure Databricks
+        - README.md
+        - 2020
+        - 2019
+    - Azure ML Services
+        - README.md
+        - 2020
+        - 2019
+...
+```
